@@ -1,7 +1,8 @@
 from __future__ import print_function
 import pyowm
-from api_keys import owm_key  # set `owm_key` to key from `https://home.openweathermap.org/api_keys`
+# from api_keys import owm_key  # set `owm_key` to key from `https://home.openweathermap.org/api_keys`
 
+owm_key = "4c37bc2c3008ea0531161653e5f0f14a"
 
 city = "Lausanne"
 

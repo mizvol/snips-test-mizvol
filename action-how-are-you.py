@@ -80,10 +80,10 @@ import io
 CONFIGURATION_ENCODING_FORMAT = "utf-8"
 CONFIG_INI = "config.ini"
 
-INTENT_HOW_ARE_YOU = "bezzam:how_are_you"
-INTENT_GOOD = "bezzam:feeling_good"
-INTENT_BAD = "bezzam:feeling_bad"
-INTENT_ALRIGHT = "bezzam:feeling_alright"
+INTENT_HOW_ARE_YOU = "mizvol:how_are_you"
+INTENT_GOOD = "mizvol:feeling_good"
+INTENT_BAD = "mizvol:feeling_bad"
+INTENT_ALRIGHT = "mizvol:feeling_alright"
 
 INTENT_FILTER_FEELING = [INTENT_GOOD, INTENT_BAD, INTENT_ALRIGHT]
 
